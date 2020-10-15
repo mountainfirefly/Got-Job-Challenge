@@ -10,10 +10,10 @@ The app we are building is fairly simple and open-ended for you to make the deci
 
 Use the dummy data from `/dummyData/applications.json` (this is 1:1 application data as we actually ingest from typeform, though with generated fake data)
 
-1. Create a page rendering a list of restaurants the applications belong to.
-2. From each of restaurants I should be able to navigate to a list of applications belonging to that specfic restaurant.
-3. And selecting an application from the list should display a profile of that applicant from the dummy data set.
-4. There should be an indicator of whether or not the user has already viewed the profile.
+1. Create a page rendering a list of restaurants.
+2. From each of the restaurant's, the user should be able to select one restaurant which navigates to a list of applications belonging to that specfic restaurant.
+3. Selecting an application from the list should display a profile of that applicant (also from the dummy data set).
+4. There should be an indicator of if the user has not already viewed the applicant profile.
 
 - BONUS: The user will be able to navigate between profiles by swiping
 
