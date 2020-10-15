@@ -6,7 +6,7 @@ So you made it to the Code Challenge 🥳
 
 The app we are building is fairly simple and open-ended for you to make the decisions.
 
-The requirements are the following:
+### The requirements are the following:
 
 Use the dummy data from `/dummyData/applications.json` (this is 1:1 application data as we actually ingest from typeform, though with generated fake data)
 
