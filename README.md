@@ -39,7 +39,7 @@ We will evaluate it on the following:
 
 - How you structure your project(s),
 - How you decide to parse the application (and why?)
-- If the application fulfills the 6 use cases
+- If the application fulfills the 4 use cases
 - Quality of the code (readability, structure, etc.)
 - Explainations and considerations for the solutions
 - Use of react concepts
