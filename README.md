@@ -54,3 +54,7 @@ We will **NOT** evaluate it on the following:
 ## Questions
 
 If you have any questions or issue with the above please let me know! You can always reach me at `niels@anna.co`
+
+## Notes
+- The mentioned dummy data didn't meet the task requirements so have modified it. Converted form_response object to the array by replicating it.
+- Implemented a swipe feature to navigate between the profiles.
